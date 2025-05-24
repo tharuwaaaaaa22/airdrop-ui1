@@ -1,1 +1,0 @@
-// JS functionality can be added later
